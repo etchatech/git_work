@@ -10,3 +10,8 @@ JLat
 P.S. 
 I was told to change you dear diary.
 
+public static void main(String args[])
+{
+	System.out.print("eat POtatoES");
+}
+
